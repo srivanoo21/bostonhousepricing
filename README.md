@@ -1,5 +1,7 @@
 ### Boston House Pricing Prediction
 
+This project is based on predicting the pricing for a house based on various factors as an input.
+
 ### Software and Tools Requirement
 
 1. [Github Account](https://github.com)
